@@ -1,0 +1,8 @@
+expense management system -------->
+      1.Allow the user to add the category of task(Make your selected 5 or 6 categories)
+      2.Allow the user to add the date of the task
+      3.Allow the user to add the expense of the task spent
+      4.Calculate the monthly expense according to the categories on which the money is spent
+      5.use the json file format to store data format image mai stored hai
+      6.make the code menu driven no UI ka need and all
+      7.AT LAST THE CODE SHOULD BE CLEAN AND SHOULD BE CAPABLE FOR APPRECIATION
